@@ -1,0 +1,6 @@
+Bootstrap: docker
+From: asarmakeeva/cfdemmultiphase:cfddem
+IncludeCmd: yes
+
+%labels
+    AUTHOR asarmakeeva@gwu.edu
