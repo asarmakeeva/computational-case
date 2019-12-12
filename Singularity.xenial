@@ -1,5 +1,5 @@
 Bootstrap: docker
-From: asarmakeeva/cfdemmultiphase:cfddem
+From: asarmakeeva/cfdemmultiphase:cfddem2
 IncludeCmd: yes
 
 %labels
